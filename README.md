@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+- 🔭 I’m currently working on [Worktile](https://worktile.com) and [PingCode](https://pingcode.com) (Intelligent R&D management tool)
+- 😄 I’m currently working on [planet](https://github.com/worktile/ngx-planet)、[docgeni](https://github.com/docgeni/docgeni)
+- 🌱 I’m currently learning Angular, TypeScript, Node.js
+
 
 <!--
 **why520crazy/why520crazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
