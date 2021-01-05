@@ -1,5 +1,5 @@
 ### Hi, I'm why520crazy 😄
-> I'm fullstack engineer, love open source ad new technology, be good at Angular、TypeScript and Node.js. manager who insist on writing code.
+I'm fullstack engineer, love open source ad new technology, be good at Angular、TypeScript and Node.js. manager who insist on writing code.
 
 ### I am working on projects
 - [planet](https://github.com/worktile/ngx-planet): A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.
