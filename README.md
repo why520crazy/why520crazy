@@ -5,7 +5,7 @@ A fullstack engineer who love open source ad new technology, be good at Angularã
 - [planet](https://github.com/worktile/ngx-planet): A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.
 - [docgeni](https://github.com/docgeni/docgeni): A modern and powerful documentation generator for Angular components lib and markdown docs
 
-### About 
+### About me
 - [zhihu](https://www.zhihu.com/people/why520crazy)
 
 ### Leading products
