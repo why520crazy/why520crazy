@@ -1,9 +1,13 @@
-### Hi 👋
+## Hi, I'm why520crazy 😄
 
-- 🔭 I’m currently working on [Worktile](https://worktile.com) and [PingCode](https://pingcode.com) (Intelligent R&D management tool)
-- 😄 I’m currently working on [planet](https://github.com/worktile/ngx-planet)、[docgeni](https://github.com/docgeni/docgeni)
+- [zhihu](https://www.zhihu.com/people/why520crazy)
+
+- 🔭 I’m working at [Worktile](https://worktile.com) and [PingCode](https://pingcode.com) (Intelligent R&D management tool)
 - 🌱 I’m currently learning Angular, TypeScript, Node.js
 
+## My Open Source Projects
+- [planet](https://github.com/worktile/ngx-planet): A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.
+- [docgeni](https://github.com/docgeni/docgeni): A modern and powerful documentation generator for Angular components lib and markdown docs
 
 <!--
 **why520crazy/why520crazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
