@@ -1,6 +1,8 @@
 ### Hi, I'm why520crazy 😄
 A fullstack engineer who love open source ad new technology, be good at Angular、TypeScript and Node.js. manager who insist on writing code.
 
+<img src="https://github-readme-stats.vercel.app/api?username=why520crazy&show_icons=true&theme=radical" />
+
 ### I am working on projects
 - [planet](https://github.com/worktile/ngx-planet): A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.
 - [docgeni](https://github.com/docgeni/docgeni): A modern and powerful documentation generator for Angular components lib and markdown docs
