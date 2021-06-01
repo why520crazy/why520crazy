@@ -1,5 +1,5 @@
 ### Hi, I'm why520crazy 😄
-A fullstack engineer who love open source and new technology, be good at Angular、TypeScript and Node.js. manager who insist on writing code.
+A fullstack engineer who love open source and new technology, be good at Angular、TypeScript and Node.js. is a middle-aged man who insists on writing code.
 
 <img src="https://github-readme-stats.vercel.app/api?username=why520crazy&show_icons=true&theme=radical" />
 
